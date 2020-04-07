@@ -1,0 +1,249 @@
+{
+    "pokemon": ["MissingNo", {
+        "Bulbasaur (45) [CG]": 2,
+        "Bulbasaur [MA]": 1
+    }, "Ivysaur", "Venusaur", {
+        "Charmander [SW]": 1,
+        "Charmander [CG]": 1,
+        "Charmander (Delta Species) [CG]": 2
+    }, "Charmeleon", "Charizard", {
+        "Squirtle [PLB]": 1,
+        "Squirtle (82) [RG]": 1
+    }, "Wartortle", "Blastoise", {
+        "Caterpie [RG]": 1
+    }, "Metapod", "Butterfree", {
+        "Weedle [DS]": 1
+    }, "Kakuna", "Beedrill", "Pidgey", "Pidgeotto", "Pidgeot", "Rattata", "Raticate", {
+        "Spearow [MD]": 2
+    }, "Fearow", "Ekans", "Arbok", {
+        "Pikachu [POP]": 1,
+        "Pikachu [EX]": 1,
+        "Pikachu [LC]": 1
+    }, "Raichu", {
+        "Brock's Sandshrew (72) [G1]": 1
+    }, "Sandslash", "Nidoran F", "Nidorina", "Nidoqueen", {
+        "Nidoran M [RG]": 1
+    }, "Nidorino", "Nidoking", {
+        "Clefairy [UF]": 1,
+        "Clefairy [RG]": 1
+    }, "Clefable", {
+        "Vulpix [HL]": 1
+    }, "Ninetales", {
+        "Jigglypuff [BST]": 1
+    }, "Wigglytuff", {
+        "Zubat [RR]": 2,
+        "Zubat [MT]": 1,
+        "Zubat [SV]": 1
+    }, "Golbat", "Oddish", "Gloom", "Vileplume", {
+        "Paras [RG]": 1
+    }, "Parasect", {
+        "Venonat [TM]": 1,
+        "Venonat [RG]": 1
+    }, "Venomoth", "Diglett", "Dugtrio", {
+        "Meowth [PR]": 1,
+        "Meowth (Delta Species) [HP]": 1,
+        "Meowth [LC]": 1
+    }, "Persian", {
+        "Psyduck (Delta Species) [HP]": 1
+    }, "Golduck", {
+        "Mankey [SV]": 1,
+        "Mankey (Delta Species) [HP]": 1
+    }, "Primeape", {
+        "Growlithe [SS]": 1
+    }, "Arcanine", "Poliwag", "Poliwhirl", "Poliwrath", "Abra", "Kadabra", "Alakazam", {
+        "Machop [LC]": 1,
+        "Machop [LM]": 1,
+        "Machop [HL]": 1
+    }, "Machoke", "Machamp", "Bellsprout", "Weepinbell", "Victreebel", "Tentacool", "Tentacruel", {
+        "Geodude [LM]": 1,
+        "Brock's Geodude [G2]": 1
+    }, "Graveler", "Golem", {
+        "Ponyta [RG]": 1
+    }, "Rapidash", {
+        "Slowpoke [MA]": 1,
+        "Slowpoke [RR]": 1,
+        "Slowpoke [RG]": 1
+    }, "Slowbro", {
+        "Magnemite [SF]": 1,
+        "Magnemite [DP]": 1,
+        "Magnemite [PK]": 1,
+        "Magnemite (62) [DR]": 1,
+        "Magnemite [EVO]": 1,
+        "Magnemite [RR]": 1
+    }, "Magneton", "Farfetch\u2019d", "Doduo", "Dodrio", "Seel", "Dewgong", {
+        "Grimer [RR]": 1,
+        "Grimer [DR]": 1
+    }, "Muk", {
+        "Shellder [SW]": 1
+    }, "Cloyster", {
+        "Gastly [SF]": 2,
+        "Gastly [DP]": 1
+    }, "Haunter", "Gengar", "Onix", {
+        "Drowzee [RG]": 1,
+        "Sabrina's Drowzee [G2]": 1,
+        "Drowzee [BS]": 1
+    }, "Hypno", "Krabby", "Kingler", {
+        "Voltorb [LM]": 1
+    }, "Electrode", {
+        "Exeggcute [B2]": 1,
+        "Exeggcute [LA]": 1
+    }, "Exeggutor", {
+        "Cubone [RG]": 1
+    }, "Marowak", "Hitmonlee", "Hitmonchan", "Lickitung", {
+        "Koffing [RS]": 1,
+        "Koga's Koffing (48) [G2]": 1,
+        "Koffing [DX]": 1
+    }, "Weezing", "Rhyhorn", "Rhydon", "Chansey", "Tangela", "Kangaskhan", {
+        "Horsea (Delta Species) [HP]": 1,
+        "Horsea [BST]": 1
+    }, "Seadra", "Goldeen", "Seaking", "Staryu", "Starmie", "Mr. Mime", "Scyther", "Jynx", "Electabuzz", "Magmar", "Pinsir", "Tauros", "Magikarp", "Gyarados", "Lapras", "Ditto", {
+        "Eevee [DS]": 1,
+        "Eevee [UD]": 1,
+        "Eevee [JU]": 1
+    }, "Vaporeon", "Jolteon", "Flareon", {
+        "Porygon [GE]": 3,
+        "Porygon [TM]": 1
+    }, "Omanyte", "Omastar", "Kabuto", "Kabutops", "Aerodactyl", "Snorlax", "Articuno", "Zapdos", "Moltres", {
+        "Dratini (53) [RR]": 1
+    }, "Dragonair", "Dragonite", "Mewtwo", {
+        "Mew [PR]": 1
+    }, {
+        "Chikorita [MT]": 1
+    }, "Bayleef", "Meganium", "Cyndaquil", "Quilava", "Typhlosion", "Totodile", "Croconaw", "Feraligatr", {
+        "Sentret [RR]": 1
+    }, "Furret", {
+        "Hoothoot [DP]": 1
+    }, "Noctowl", "Ledyba", "Ledian", {
+        "Spinarak [HS]": 1
+    }, "Ariados", "Crobat", {
+        "Team Aqua's Chinchou [MA]": 1
+    }, "Lanturn", {
+        "Pichu (Delta Species) [HP]": 1
+    }, "Cleffa", "Igglybuff", {
+        "Togepi [GE]": 2
+    }, "Togetic", {
+        "Natu [DX]": 2,
+        "Natu [UF]": 2
+    }, "Xatu", {
+        "Mareep [PR]": 2,
+        "Mareep [UF]": 1
+    }, "Flaaffy", "Ampharos", "Bellossom", "Marill", "Azumarill", "Sudowoodo", "Politoed", "Hoppip", "Skiploom", "Jumpluff", {
+        "Aipom [UL]": 2
+    }, "Sunkern", "Sunflora", {
+        "Yanma [TM]": 1
+    }, "Wooper", "Quagsire", "Espeon", "Umbreon", "Murkrow", "Slowking", {
+        "Misdreavus [UL]": 1,
+        "Misdreavus [PL]": 4
+    }, "Unown", "Wobbuffet", "Girafarig", {
+        "Pineco [LA]": 1
+    }, "Forretress", "Dunsparce", "Gligar", "Steelix", "Snubbull", "Granbull", "Qwilfish", "Scizor", "Shuckle", "Heracross", "Sneasel", "Teddiursa", "Ursaring", {
+        "Slugma (74) [DX]": 1,
+        "Slugma (75) [DX]": 1
+    }, "Magcargo", "Swinub", "Piloswine", "Corsola", {
+        "Remoraid [UF]": 1
+    }, "Octillery", "Delibird", {
+        "Mantine (Delta Species) [DF]": 1
+    }, "Skarmory", {
+        "Houndour (53) [UD]": 1,
+        "Team Magma's Houndour (63) [MA]": 1
+    }, "Houndoom", "Kingdra", {
+        "Phanpy [RS]": 1
+    }, "Donphan", "Porygon2", "Stantler", "Smeargle", "Tyrogue", "Hitmontop", "Smoochum", "Elekid", "Magby", "Miltank", "Blissey", "Raikou", "Entei", "Suicune", {
+        "Larvitar [SF]": 1,
+        "Larvitar [UL]": 1
+    }, "Pupitar", "Tyranitar", "Lugia", "Ho-Oh", "Celebi", {
+        "Treecko [DR]": 1
+    }, "Grovyle", "Sceptile", {
+        "Torchic [DR]": 3
+    }, "Combusken", "Blaziken", {
+        "Mudkip (57) [CG]": 1
+    }, "Marshtomp", "Swampert", {
+        "Poochyena [PL]": 1,
+        "Poochyena [DX]": 1,
+        "Poochyena [PK]": 1,
+        "Team Magma's Poochyena (66) [MA]": 1
+    }, "Mightyena", "Zigzagoon", "Linoone", {
+        "Wurmple [DR]": 1,
+        "Wurmple [DP]": 1,
+        "Wurmple [DX]": 1
+    }, "Silcoon", "Beautifly", "Cascoon", "Dustox", {
+        "Lotad [CG]": 1,
+        "Lotad (63) [DX]": 1
+    }, "Lombre", "Ludicolo", "Seedot", "Nuzleaf", "Shiftry", {
+        "Taillow [DR]": 1
+    }, "Swellow", "Wingull", "Pelipper", {
+        "Ralts (Delta Species) [DF]": 1,
+        "Ralts (66) [RS]": 1
+    }, "Kirlia", "Gardevoir", {
+        "Surskit [HL]": 2,
+        "Surskit [CES]": 1,
+        "Surskit [DX]": 1
+    }, "Masquerain", "Shroomish", "Breloom", {
+        "Slakoth [MT]": 1
+    }, "Vigoroth", "Slaking", "Nincada", "Ninjask", "Shedinja", {
+        "Whismur [HL]": 1,
+        "Whismur [EM]": 1
+    }, "Loudred", "Exploud", {
+        "Makuhita (58) [RS]": 1,
+        "Makuhita (57) [RS]": 1,
+        "Makuhita [BST]": 1
+    }, "Hariyama", "Azurill", "Nosepass", {
+        "Skitty (71) [RS]": 1
+    }, "Delcatty", "Sableye", "Mawile", "Aron", "Lairon", "Aggron", {
+        "Meditite [BST]": 1
+    }, "Medicham", {
+        "Team Aqua's Electrike (53) [MA]": 1,
+        "Electrike [CES]": 1,
+        "Team Aqua's Electrike (52) [MA]": 1
+    }, "Manectric", "Plusle", "Minun", "Volbeat", "Illumise", "Roselia", "Gulpin", "Swalot", {
+        "Team Aqua's Carvanha (48) [MA]": 1
+    }, "Sharpedo", "Wailmer", "Wailord", {
+        "Numel [HP]": 1,
+        "Numel [DR]": 1
+    }, "Camerupt", "Torkoal", {
+        "Spoink [DX]": 2,
+        "Spoink [CG]": 3,
+        "Spoink (73) [DR]": 1
+    }, "Grumpig", "Spinda", {
+        "Trapinch (78) [DR]": 1
+    }, "Vibrava", "Flygon", {
+        "Cacnea [EM]": 1
+    }, "Cacturne", "Swablu", "Altaria", "Zangoose", "Seviper", "Lunatone", "Solrock", {
+        "Barboach [DX]": 1,
+        "Barboach [MT]": 1
+    }, "Whiscash", {
+        "Team Aqua's Corphish (51) [MA]": 1
+    }, "Crawdaunt", {
+        "Baltoy (53) [HL]": 1,
+        "Baltoy [PK]": 1
+    }, "Claydol", "Lileep", "Cradily", "Anorith", "Armaldo", "Feebas", "Milotic", "Castform", "Kecleon", {
+        "Shuppet [PL]": 3
+    }, "Banette", {
+        "Duskull [SF]": 1,
+        "Duskull [PK]": 1
+    }, "Dusclops", "Tropius", "Chimecho", "Absol", "Wynaut", "Snorunt", "Glalie", "Spheal", "Sealeo", "Walrein", {
+        "Clamperl [CES]": 1
+    }, "Huntail", "Gorebyss", "Relicanth", "Luvdisc", {
+        "Bagon [DX]": 1,
+        "Bagon [PLB]": 1,
+        "Bagon [SF]": 1
+    }, "Shelgon", "Salamence", {
+        "Beldum [UD]": 1,
+        "Beldum [DX]": 1
+    }, "Metang", "Metagross", "Regirock", "Regice", "Registeel", "Latias", "Latios", "Kyogre", "Groudon", "Rayquaza", "Jirachi", "Deoxys", "Turtwig", "Grotle", "Torterra", {
+        "Chimchar [POP]": 1
+    }, "Monferno", "Infernape", "Piplup", "Prinplup", "Empoleon", "Starly", "Staravia", "Staraptor", "Bidoof", "Bibarel", "Kricketot", "Kricketune", "Shinx", "Luxio", "Luxray", "Budew", "Roserade", "Cranidos", "Rampardos", "Shieldon", "Bastiodon", "Burmy", "Wormadam", "Mothim", {
+        "Combee [DP]": 1,
+        "Combee [MD]": 2
+    }, "Vespiquen", "Pachirisu", "Buizel", "Floatzel", {
+        "Cherubi [DP]": 2,
+        "Cherubi [UL]": 1,
+        "Cherubi [SV]": 1
+    }, "Cherrim", "Shellos", "Gastrodon", "Ambipom", {
+        "Drifloon [SF]": 1
+    }, "Drifblim", "Buneary", "Lopunny", "Mismagius", "Honchkrow", "Glameow", "Purugly", "Chingling", "Stunky", "Skuntank", "Bronzor", "Bronzong", "Bonsly", "Mime Jr.", "Happiny", "Chatot", "Spiritomb", "Gible", "Gabite", "Garchomp", "Munchlax", "Riolu", "Lucario", "Hippopotas", "Hippowdon", "Skorupi", "Drapion", "Croagunk", "Toxicroak", "Carnivine", "Finneon", "Lumineon", "Mantyke", "Snover", "Abomasnow", "Weavile", "Magnezone", "Lickilicky", "Rhyperior", "Tangrowth", "Electivire", "Magmortar", "Togekiss", "Yanmega", "Leafeon", "Glaceon", "Gliscor", "Mamoswine", "Porygon-Z", "Gallade", "Probopass", "Dusknoir", "Froslass", "Rotom", "Uxie", "Mesprit", "Azelf", "Dialga", "Palkia", "Heatran", "Regigigas", "Giratina", "Cresselia", "Phione", "Manaphy", "Darkrai", "Shaymin", "Arceus", "Victini", "Snivy", "Servine", "Serperior", "Tepig", "Pignite", "Emboar", "Oshawott", "Dewott", "Samurott", "Patrat", "Watchog", "Lillipup", "Herdier", "Stoutland", "Purrloin", "Liepard", "Pansage", "Simisage", "Pansear", "Simisear", "Panpour", "Simipour", "Munna", "Musharna", "Pidove", "Tranquill", "Unfezant", "Blitzle", "Zebstrika", "Roggenrola", "Boldore", "Gigalith", "Woobat", "Swoobat", "Drilbur", "Excadrill", "Audino", "Timburr", "Gurdurr", "Conkeldurr", "Tympole", "Palpitoad", "Seismitoad", "Throh", "Sawk", "Sewaddle", "Swadloon", "Leavanny", "Venipede", "Whirlipede", "Scolipede", "Cottonee", "Whimsicott", "Petilil", "Lilligant", "Basculin", "Sandile", "Krokorok", "Krookodile", "Darumaka", "Darmanitan", "Maractus", "Dwebble", "Crustle", "Scraggy", "Scrafty", "Sigilyph", "Yamask", "Cofagrigus", "Tirtouga", "Carracosta", "Archen", "Archeops", "Trubbish", "Garbodor", "Zorua", "Zoroark", "Minccino", "Cinccino", {
+        "Gothita [DRX]": 1
+    }, "Gothorita", "Gothitelle", "Solosis", "Duosion", "Reuniclus", "Ducklett", "Swanna", "Vanillite", "Vanillish", "Vanilluxe", "Deerling", "Sawsbuck", "Emolga", "Karrablast", "Escavalier", "Foongus", "Amoonguss", "Frillish", "Jellicent", "Alomomola", "Joltik", "Galvantula", "Ferroseed", "Ferrothorn", "Klink", "Klang", "Klinklang", "Tynamo", "Eelektrik", "Eelektross", "Elgyem", "Beheeyem", {
+        "Litwick (57) [NVI]": 1
+    }, "Lampent", "Chandelure", "Axew", "Fraxure", "Haxorus", "Cubchoo", "Beartic", "Cryogonal", "Shelmet", "Accelgor", "Stunfisk", "Mienfoo", "Mienshao", "Druddigon", "Golett", "Golurk", "Pawniard", "Bisharp", "Bouffalant", "Rufflet", "Braviary", "Vullaby", "Mandibuzz", "Heatmor", "Durant", "Deino", "Zweilous", "Hydreigon", "Larvesta", "Volcarona", "Cobalion", "Terrakion", "Virizion", "Tornadus", "Thundurus", "Reshiram", "Zekrom", "Landorus", "Kyurem", "Keldeo", "Meloetta", "Genesect", "Chespin", "Quilladin", "Chesnaught", "Fennekin", "Braixen", "Delphox", "Froakie", "Frogadier", "Greninja", "Bunnelby", "Diggersby", "Fletchling", "Fletchinder", "Talonflame", "Scatterbug", "Spewpa", "Vivillon", "Litleo", "Pyroar", "Flab\u00e9b\u00e9", "Floette", "Florges", "Skiddo", "Gogoat", "Pancham", "Pangoro", "Furfrou", "Espurr", "Meowstic", "Honedge", "Doublade", "Aegislash", "Spritzee", "Aromatisse", "Swirlix", "Slurpuff", "Inkay", "Malamar", "Binacle", "Barbaracle", "Skrelp", "Dragalge", "Clauncher", "Clawitzer", "Helioptile", "Heliolisk", "Tyrunt", "Tyrantrum", "Amaura", "Aurorus", "Sylveon", "Hawlucha", "Dedenne", "Carbink", "Goomy", "Sliggoo", "Goodra", "Klefki", "Phantump", "Trevenant", "Pumpkaboo", "Gourgeist", "Bergmite", "Avalugg", "Noibat", "Noivern", "Xerneas", "Yveltal", "Zygarde", "Diancie", "Hoopa", "Volcanion", "Rowlet", "Dartrix", "Decidueye", "Litten", "Torracat", "Incineroar", "Popplio", "Brionne", "Primarina", "Pikipek", "Trumbeak", "Toucannon", "Yungoos", "Gumshoos", "Grubbin", "Charjabug", "Vikavolt", "Crabrawler", "Crabominable", "Oricorio", "Cutiefly", "Ribombee", "Rockruff", "Lycanroc", "Wishiwashi", "Mareanie", "Toxapex", "Mudbray", "Mudsdale", "Dewpider", "Araquanid", "Fomantis", "Lurantis", "Morelull", "Shiinotic", "Salandit", "Salazzle", "Stufful", "Bewear", "Bounsweet", "Steenee", "Tsareena", "Comfey", "Oranguru", "Passimian", "Wimpod", "Golisopod", "Sandygast", "Palossand", "Pyukumuku", "Type: Null", "Silvally", "Minior", "Komala", "Turtonator", "Togedemaru", "Mimikyu", "Bruxish", "Drampa", "Dhelmise", "Jangmo-o", "Hakamo-o", "Kommo-o", "Tapu Koko", "Tapu Lele", "Tapu Bulu", "Tapu Fini", "Cosmog", "Cosmoem", "Solgaleo", "Lunala", "Nihilego", "Buzzwole", "Pheromosa", "Xurkitree", "Celesteela", "Kartana", "Guzzlord", "Necrozma", "Magearna", "Marshadow", "Poipole", "Naganadel", "Stakataka", "Blacephalon", "Zeraora"]
+}
