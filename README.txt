@@ -1,4 +1,4 @@
-Hello! This is my dumb passion project that really has no purpose but here we go!
+Hello! This is my dumb passion project to order all my pokémon cards by national dex that really has no purpose but here we go
 
 first things first, after you've created a collection of pokemon cards by either scanning them or entering them manually with
 TCGplayer, hit those three dots top right and export that list to your computer or what have you.
@@ -7,10 +7,15 @@ next, paste that list in the `myPokemon.txt` file
 
 third and last, cd into this directory and run createPokeDir.py
 example:
-> cd /Users/username/PokeSorter/
+> cd /Users/username/PokeSorter
 > python3 createPokeDir.py
 
+now when you look at `some.json` it'll show you all the cards, their expansions, and quantity you have, as well as filler text
+for all the pokémon you don't own
+
 this does require python3 because python2 does not allow for large arrays such as the one we are using, it contains 807 pokés
+
+The next step is the ability to re-export the data in national dex order so that it can me IMPORTED back into TCGplayer
 
 lemme know if you have any ideas or questions
 
