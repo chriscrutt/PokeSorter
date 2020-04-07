@@ -15,9 +15,12 @@ for all the pokémon you don't own
 
 this does require python3 because python2 does not allow for large arrays such as the one we are using, it contains 807 pokés
 
-The next step is the ability to re-export the data in national dex order so that it can me IMPORTED back into TCGplayer
+The next step is the ability to re-export the data in national dex order with the ability to be IMPORTED back into TCGplayer
 
 lemme know if you have any ideas or questions
+
+
+
 
 
 
